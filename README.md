@@ -8,7 +8,7 @@ project deliverables:
 
 - Design Models, e.g., sample object design model: 
 
-![class diagram](https://github.com/calvin-cs262-organization/monopoly-project/blob/master/design/drawioClass.png
+![class diagram](https://github.com/calvin-cs262-organization/monopoly-project/blob/master/design/drawioClass.png)
 
 - Presentation Materials, e.g., this [sample presentation](https://github.com/calvin-cs262-organization/monopoly-project/blob/master/presentations/presentation.pptx)
 
