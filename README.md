@@ -6,8 +6,11 @@ client and a server as separate repos in one GitHub organization.
 Include your project vision statement here as well as a list of the following 
 project deliverables:
 
-- Design Models (e.g., this ![sample object design model](https://github.com/calvin-cs262-organization/monopoly-project/blob/master/design/drawioClass.png))
-- Presentation Materials (e.g., this [sample presentation]())
+- Design Models, e.g., sample object design model: 
+
+![class diagram](https://github.com/calvin-cs262-organization/monopoly-project/blob/master/design/drawioClass.png
+
+- Presentation Materials, e.g., this [sample presentation](https://github.com/calvin-cs262-organization/monopoly-project/blob/master/presentations/presentation.pptx)
 
 The raw documents for these deliverables should be checked into this repo.
 
