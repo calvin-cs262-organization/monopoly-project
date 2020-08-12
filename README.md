@@ -1,16 +1,16 @@
-# CS 262 Monopoly Project
+# CS 262 Project
 
 This is a sample application for CS 262 at Calvin University that includes a
 client and a server as separate repos in one GitHub organization.
 
 Include your project vision statement in this main MD file. Then include
-additional files for the other deliverables, including:
+references to additional files for the other deliverables, such as:
 
-- Design Models, e.g., this [design specification](https://github.com/calvin-cs262-organization/monopoly-project/blob/master/design.md)
+- Design Models (e.g., this [design specification](https://github.com/calvin-cs262-organization/monopoly-project/blob/master/design.md))
 
-- Presentation Materials, e.g., here&rsquo;s a [sample presentation](https://github.com/calvin-cs262-organization/monopoly-project/blob/master/presentations/presentation.pptx)
+- Presentation Materials (e.g., this [sample presentation](https://github.com/calvin-cs262-organization/monopoly-project/blob/master/presentations/presentation.pptx))
 
-- Other documents, e.g., here&rsquo;s a [sample test script](https://github.com/calvin-cs262-organization/monopoly-project/blob/master/testing/csWebsiteTestScript.pdf). 
+- Other documents (e.g., this [sample test script](https://github.com/calvin-cs262-organization/monopoly-project/blob/master/testing/csWebsiteTestScript.pdf)) 
 
 The raw documents for these deliverables should be checked into this project repo.
 
