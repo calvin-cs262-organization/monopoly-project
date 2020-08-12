@@ -17,8 +17,9 @@ The raw documents for these deliverables should be checked into this project rep
 You will publish the following materials elsewhere:
 
 - the codebases for your client and for your server will be separate repos
-in your team organization 
-(e.g., see this [sample organization](https://github.com/calvin-cs262-organization/)).
+in your [team organization](https://github.com/calvin-cs262-organization/)):
+    - [Client](https://github.com/calvin-cs262-organization/monopoly-client)
+    - [Server](https://github.com/calvin-cs262-organization/monopoly-server)
 - your project management materials will be included in your team Trello board 
 (e.g., see this [sample Trello board](https://trello.com/b/WpvdqCbd/cs262-overview)) 
 and in your GitHub repos. 
