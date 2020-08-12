@@ -3,12 +3,10 @@
 This is a sample application for CS 262 at Calvin University that includes a
 client and a server as separate repos in one GitHub organization.
 
-Include your project vision statement here as well as a list of the following 
-project deliverables:
+Include your project vision statement in this main MD file. Then include
+additional files for the other deliverables, including:
 
-- Design Models, e.g., here&rsquo;s a sample object design model: 
-
-![class diagram](https://github.com/calvin-cs262-organization/monopoly-project/blob/master/design/drawioClass.png)
+- Design Models, e.g., this [design specification](https://github.com/calvin-cs262-organization/monopoly-project/blob/master/design.md)
 
 - Presentation Materials, e.g., here&rsquo;s a [sample presentation](https://github.com/calvin-cs262-organization/monopoly-project/blob/master/presentations/presentation.pptx)
 
