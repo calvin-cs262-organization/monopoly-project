@@ -10,7 +10,7 @@ references to additional files for the other deliverables, such as:
 
 - Presentation Materials (e.g., this [sample presentation](https://github.com/calvin-cs262-organization/monopoly-project/blob/master/presentations/presentation.pptx))
 
-- Other documents (e.g., this [sample test script](https://github.com/calvin-cs262-organization/monopoly-project/blob/master/documents/csWebsiteTestScript.pdf)) 
+- Other documents (e.g., this [sample test script](https://github.com/calvin-cs262-organization/monopoly-project/blob/master/documents/csWebsiteTestScript.docx)) 
 
 The raw documents for these deliverables should be checked into this project repo.
 
