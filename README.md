@@ -12,7 +12,7 @@ references to additional files for the other deliverables, such as:
 
 - Other documents (e.g., this [sample test script](https://github.com/calvin-cs262-organization/monopoly-project/blob/master/documents/csWebsiteTestScript.docx)) 
 
-The raw documents for these deliverables should be checked into this project repo.
+The raw documents for these deliverables should be checked into this project repo so that they can be managed by the DVCS.
 
 You will publish the following materials elsewhere:
 
