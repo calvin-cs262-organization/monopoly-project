@@ -8,7 +8,7 @@ references to additional files for the other deliverables, such as:
 
 - Design Models (e.g., this [design specification](https://github.com/calvin-cs262-organization/monopoly-project/blob/master/design.md))
 
-- Presentation Materials (e.g., this [sample presentation](https://github.com/calvin-cs262-organization/monopoly-project/blob/master/presentations/presentation.pptx))
+- Presentation Materials (e.g., this [sample presentation](https://github.com/calvin-cs262-organization/monopoly-project/blob/master/presentations/presentation.pptx?raw=true))
 
 - Other documents (e.g., this [sample test script](https://github.com/calvin-cs262-organization/monopoly-project/blob/master/documents/csWebsiteTestScript.docx)) 
 
